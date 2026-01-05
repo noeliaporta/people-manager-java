@@ -1,4 +1,12 @@
-*.exe
-*.o
-*.out
-data/*.dat
+# Java compiled files
+*.class
+
+#IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
